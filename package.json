@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@nrwl/angular": "^15.6.3",
-    "@nrwl/nest": "^15.6.3"
+    "@nrwl/nest": "^15.6.3",
+    "firebase": "^9.17.1"
   }
 }
